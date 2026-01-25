@@ -4,14 +4,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I am a **Cybersecurity Specialist** and **Red Team Tool Developer** with a focus on Offensive Security. My mission is to identify vulnerabilities before the adversaries do and automate complex security workflows.
 
-* 🎓 **Current Focus:** Preparing for the **CEH (Certified Ethical Hacker) Master** certification (Estimated completion: July 2026).
-* 🔭 **Active Project:** Developing the **NOEMVEX Toolset**, starting with the **Web Recon Engine (Hunter Edition)**.
-* 🎯 **Career Goal:** Securing a Red Teaming / Pentester role in the European market (**Germany/Lithuania**).
-* 🧠 **Knowledge Base:** Advanced Linux, Web Security, and Network Exploitation.
-* ⚡ **Philosophy:** I believe a good script is worth a thousand manual commands, but manual precision is what finds the unfindable.
+*  **Current Focus:** Preparing for the **CEH (Certified Ethical Hacker) Master** certification (Estimated completion: July 2026).
+*  **Active Project:** Developing the **NOEMVEX Toolset**, starting with the **Web Recon Engine (Hunter Edition)**.
+*  **Career Goal:** Securing a Red Teaming / Pentester role in the European market (**Germany/Lithuania**).
+*  **Knowledge Base:** Advanced Linux, Web Security, and Network Exploitation.
+*  **Philosophy:** I believe a good script is worth a thousand manual commands, but manual precision is what finds the unfindable.
 
 ---
 
