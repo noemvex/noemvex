@@ -20,7 +20,7 @@ I am a **Cybersecurity Specialist** and **Red Team Tool Developer** focused on O
 
 | Project | Edition | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **[NOEMVEX-WEB-RECON](https://github.com/noemvex/noemvex-web-recon)** | **v1.0 [Hunter Edition]** | Stable ✅ | Passive recon, subdomain enumeration & sensitive discovery. |
+| **[NOEMVEX-WEB-RECON](https://github.com/noemvex/noemvex-web-recon)** | **v1.1 [Stealth Hunter Edition]** | Stable ✅ | Adaptive Recon Engine: WAF Evasion, Smart Protocol Fallback & Hybrid Discovery. |
 | **[NOEMVEX-WAYBACK](https://github.com/noemvex/noemvex-wayback)** | **v1.0 [Chronos Edition]** | Stable ✅ | Advanced Historical OSINT Engine. (In Maintenance) |
 | **[NOEMVEX-DOMAIN](https://github.com/noemvex/noemvex-domain)** | **v1.0 [Domain Hunter Edition]** | Stable ✅ | Advanced Domain & DNS intelligence gathering tool. |
 | **NOEMVEX-AUDIT** | **[Nemesis]** | In Dev 🛠️ | Automated system auditing and privilege escalation scout. |
