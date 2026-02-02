@@ -41,10 +41,12 @@ I am a **Cybersecurity Specialist** and **Red Team Tool Developer** focused on O
 
 ---
 
-###  Development Metrics
+### Development Metrics
 
-![noemvex's GitHub stats](https://github-readme-stats.vercel.app/api?username=noemvex&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemvex&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=noemvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="noemvex github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemvex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="most used languages" />
+</p>
 
 ---
 ###  Connect with Me
