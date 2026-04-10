@@ -4,41 +4,42 @@
 
 ---
 
-###  About Me
+### 🛡️ About Me
 
 I am a **Cybersecurity Specialist** and **Red Team Tool Developer** focused on Offensive Security. My mission is to identify vulnerabilities before adversaries do by orchestrating custom automation workflows and developing precision tooling.
 
-* **Current Focus:** Preparing for the **CEH (Certified Ethical Hacker) Master** certification (Target: June 2026).
-* **Active Project:** Expanding the **NOEMVEX Suite**, currently deploying **Edition-based** offensive tools.
-* **Career Goal:** Securing a Red Teaming / Pentester role in the **European Market** (Germany/Lithuania).
-* **Core Competencies:** Advanced Linux, Historical OSINT, Web Application Security, and Python Automation.
+* **Current Focus:** Preparing for the **CEH v13 Master** certification (Target: June 2026).
+* **Active Project:** Expanding the **NOEMVEX Suite**, currently deploying **Edition-based** offensive engines.
+* **Career Goal:** Securing a Senior Pentester / Red Team role in the **European Market** .
+* **Core Competencies:** Advanced Linux, Historical OSINT, Active Directory Exploitation, and Python Automation.
 * **Philosophy:** *Automation is not about replacing the operator; it's about empowering them to focus on the critical logic.*
 
 ---
 
-###  The Arsenal (NOEMVEX Suite)
+### ⚔️ The Arsenal (NOEMVEX Suite)
 
 | Project | Edition | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **[NOEMVEX-WEB-RECON](https://github.com/noemvex/noemvex-web-recon)** | **v1.1 [Stealth Hunter Edition]** | Stable ✅ | Adaptive Recon Engine: WAF Evasion, Smart Protocol Fallback & Hybrid Discovery. |
-| **[NOEMVEX-WAYBACK](https://github.com/noemvex/noemvex-wayback)** | **v1.0 [Chronos Edition]** | Stable ✅ | Advanced Historical OSINT Engine. (In Maintenance) |
-| **[NOEMVEX-DOMAIN](https://github.com/noemvex/noemvex-domain)** | **v1.0 [Domain Hunter Edition]** | Stable ✅ | Advanced Domain & DNS intelligence gathering tool. |
-| **NOEMVEX-AUDIT** | **[Nemesis]** | In Dev 🛠️ | Automated system auditing and privilege escalation scout. |
+| **[NOEMVEX-CHRONOS](https://github.com/noemvex/noemvex-wayback)** | **v4.0 [Chronos Edition]** | Stable ✅ | Advanced Historical OSINT & Entropy Engine. Features Zombie Asset Hijacking and Nuclei Weaponization. |
+| **[NOEMVEX-APEX-PREDATOR](https://github.com/noemvex/noemvex-domain)** | **v3.0 [Apex Edition]** | Stable ✅ | Active Directory Offensive Engine. Specializes in LAPS extraction, ZeroLogon hunting, and NTLM Relay audits. |
+| **[NOEMVEX-WEB_ARCHITECT](https://github.com/noemvex/web-architect)** | **v1.0 [Architect Edition]** | Stable ✅ | Full-Stack Web Infrastructure Analysis: Deep Blueprinting, Structural Vulnerability Mapping & Logic Flaw Discovery. |
+| **NOEMVEX-AUDIT** | **[Nemesis Edition]** | In Dev 🛠️ | Automated system auditing and privilege escalation scout. |
 
 ---
 
-###  Tech Stack & Operations
+### 💻 Tech Stack & Operations
 
 **Command Center**
-* MacOS (M3) & Kali Linux (VM)
+* Main Rig: **Alienware**
+* OS: **Kali Linux** & **MacOS**
 
 **Development**
-* Python (OOP/Automation), Bash Scripting
+* Python (Advanced OOP & Security Tooling), Bash/PowerShell Automation
 
 **Reconnaissance & Exploitation**
-* Nmap, Burp Suite, Maltego, Waymore, Metasploit
-* Searchsploit, Hydra, Wireshark, SQLMap
+* Active Directory Exploitation (RPC/SMB/LDAP), Historical OSINT Analysis
+* Burp Suite, Nmap (NSE), Metasploit, Wireshark, SQLMap
 
 ---
-###  Connect with Me
+### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emresahin-sec) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/noemvex)
