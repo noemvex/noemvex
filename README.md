@@ -8,7 +8,8 @@
 
 I am a **Offensive Security Specialist** and **Red / Purple Team Tool Developer**. My mission is to identify critical architectural vulnerabilities before adversaries do by orchestrating custom automation workflows, developing precision tooling, and bridging the gap between offensive operations and defensive telemetry.
 
-* **Current Focus:** Preparing for the **CEH v13** certification (Target: July 2026) & advancing EDR-evasive automation.
+* **Certifications:** EC-Council: CEH v13 | Cisco: Networking Basics | OpenEDG Python Institute: Python | IEEC: Prompt Management
+* **Current Focus:** Preparing for the **CTIA** certification (Target: September 2026)
 * **Active Project:** Expanding the **NOEMVEX Suite**, deploying highly decoupled, OOP-based offensive engines with native MITRE ATT&CK and SIEM integration.
 * **Career Goal:** Securing a **Senior Red Team Engineer** or **Purple Team Architect** role within the **European Market**.
 * **Core Competencies:** Active Directory Architecture Exploitation, Advanced Python Security Tooling, Historical OSINT & Entropy Analysis, and WAF/TLS Evasion.
